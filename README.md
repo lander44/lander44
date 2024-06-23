@@ -42,14 +42,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lander44/lander44/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31rp6lcvtiht4kjz3tebpmgi55da">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rp6lcvtiht4kjz3tebpmgi55da&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
